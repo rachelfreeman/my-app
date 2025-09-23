@@ -61,6 +61,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.6.0, )"
             }
           },
           "imports": [

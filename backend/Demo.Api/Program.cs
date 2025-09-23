@@ -9,7 +9,15 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 app.UseHttpsRedirection();
 
-if (!app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+    app.UseSwaggerUi(options =>
+    {
+        options.DocumentPath = "/openapi/v1.json";
+    });
+}
+else
 {
     app.UseDefaultFiles();
     app.UseStaticFiles();

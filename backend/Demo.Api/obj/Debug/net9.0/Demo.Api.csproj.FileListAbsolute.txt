@@ -80,3 +80,16 @@ C:\Users\kitha\code\demo\my-app\backend\Demo.Api\obj\Debug\net9.0\refint\Demo.Ap
 C:\Users\kitha\code\demo\my-app\backend\Demo.Api\obj\Debug\net9.0\Demo.Api.pdb
 C:\Users\kitha\code\demo\my-app\backend\Demo.Api\obj\Debug\net9.0\Demo.Api.genruntimeconfig.cache
 C:\Users\kitha\code\demo\my-app\backend\Demo.Api\obj\Debug\net9.0\ref\Demo.Api.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NJsonSchema.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NSwag.Core.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NSwag.Generation.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\Users\kitha\code\demo\my-app\backend\Demo.Api\bin\Debug\net9.0\YamlDotNet.dll
