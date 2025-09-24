@@ -24,6 +24,13 @@ namespace Demo.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodoItems()
         {
+            var hardCodedItems = new List<TodoItem>
+            {
+                new TodoItem { Id = 1, Name = "Item1", IsComplete = false },
+                new TodoItem { Id = 2, Name = "Item2", IsComplete = true },
+            };
+
+            return hardCodedItems;
             return await _context.TodoItems.ToListAsync();
         }
 
